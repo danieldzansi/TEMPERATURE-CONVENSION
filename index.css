@@ -1,0 +1,44 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(238, 219, 219);
+}
+h1{
+    color: rgb(125, 99, 242);
+}
+form{
+   background-color:rgb(191, 180, 244) ;
+   text-align: center; 
+   max-width: 350px;
+   margin: auto;
+   padding: 25px;
+   border-radius: 10px;
+   box-shadow:5px 5px 15px rgb(234, 214, 214) ;
+}
+#textBox{
+width: 50%;
+text-align: center;
+font-size: 2rem;
+border-radius: 2px solid rgb(5, 4, 4);
+margin-bottom: 15px;
+}
+label{
+    font-size: 1.5em;
+    font-weight: bold;
+
+}
+button{
+    margin-top: 15px;
+    background-color: rgb(244, 131, 131);
+    font-size: 1.5em;
+    border: none;
+    cursor: pointer;
+    padding: 10px 15px;
+    color: white;
+}
+#result{
+    font-size: 1.75em;
+    font-weight: bold;
+}
+button:hover{
+    background-color: rgb(234, 150, 150);
+}
